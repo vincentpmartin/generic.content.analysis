@@ -1,8 +1,10 @@
 # Generic Content Analysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vincentpmartin/generic.content.analysis/HEAD?labpath=jupyter_notebook_generic_content_analysis.ipynb)
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />
-This work is availabe under the [Attribution-NonCommercial-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vincentpmartin/generic.content.analysis/HEAD?labpath=jupyter_notebook_generic_content_analysis.ipynb) 
+[![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 ## Description
 The data and notebook contained in this repository foster the reproducibility of the following papers: 
 
