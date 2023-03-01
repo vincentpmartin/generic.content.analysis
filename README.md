@@ -1,7 +1,8 @@
 # Generic Content Analysis
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vincentpmartin/generic.content.analysis/HEAD?labpath=jupyter_notebook_generic_content_analysis.ipynb)
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />
+This work is availabe under the [Attribution-NonCommercial-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 ## Description
 The data and notebook contained in this repository foster the reproducibility of the following papers: 
 
@@ -53,5 +54,5 @@ If you have trouble reproducing our results or launching the code on your own da
 ## Reference
 If you use this script, please cite the following paper : 
 * Gauld C, Martin VP, Richaud A, Bailleul S, Lucie V, Perromat JL, et al. Systematic Item Content and Overlap Analysis of Self-reported Multiple Sleep Disorders Screening Questionnaires in Adults. *Journal of Clinical Medicine*. [https://doi.org/10.3390/jcm12030852](https://doi.org/10.3390/jcm12030852)
- 
+
 ---
